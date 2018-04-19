@@ -1,5 +1,4 @@
-# build
-/dist
+
 
 # node.js
 node_modules
@@ -8,10 +7,6 @@ node_modules
 *.sublime-workspace
 
 .idea/*
-
-data/*
-
-npm-debug.log
 
 .npmignore
 
