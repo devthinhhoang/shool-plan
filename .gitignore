@@ -1,0 +1,19 @@
+# build
+/dist
+
+# node.js
+node_modules
+
+# sublime text
+*.sublime-workspace
+
+.idea/*
+
+data/*
+
+npm-debug.log
+
+.npmignore
+
+
+
